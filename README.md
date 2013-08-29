@@ -1,0 +1,4 @@
+Vanilla
+=======
+
+Vanilla test
